@@ -101,12 +101,7 @@
 		</dependency>
 
 
-	<properties>
-  <sonar.projectKey>surajsahu124_testSeleniumDDF</sonar.projectKey>
-  <sonar.organization>surajsahu124</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>e41be09e465da28d93a144a74496b926b97c05f1</sonar.login>
-</properties>
+	
 
 
 
@@ -149,4 +144,10 @@
 
 
 	</build>
+	<properties>
+  <sonar.projectKey>surajsahu124_testSeleniumDDF</sonar.projectKey>
+  <sonar.organization>surajsahu124</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>e41be09e465da28d93a144a74496b926b97c05f1</sonar.login>
+</properties>
 </project>
